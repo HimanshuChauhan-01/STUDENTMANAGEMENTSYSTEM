@@ -28,7 +28,8 @@ A desktop-based **Student Management System** that allows users to manage studen
 ---
 
 ## 🗂 Project Structure
-
+<p>
+  
 StudentManagementSystem/
 │
 ├── src/
@@ -47,3 +48,5 @@ StudentManagementSystem/
 │ └── student_management.sql # DB creation script
 │
 └── README.md
+
+</p>

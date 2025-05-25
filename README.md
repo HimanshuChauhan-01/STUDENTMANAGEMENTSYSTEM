@@ -28,25 +28,41 @@ A desktop-based **Student Management System** that allows users to manage studen
 ---
 
 ## 🗂 Project Structure
-<p>
-  
-StudentManagementSystem/
-│
-├── src/
-│ ├── model/
-│ │ └── Student.java # Student data class
-│ ├── dao/
-│ │ ├── DatabaseConnection.java # Handles MySQL connection
-│ │ └── StudentDAO.java # CRUD operations
-│ ├── ui/
-│ │ └── StudentManagementSystem.java # Main GUI class
-│
-├── resources/
-│ └── galgotias-university-logo.png # Optional logo for branding
-│
-├── sql/
-│ └── student_management.sql # DB creation script
-│
-└── README.md
+<ul>
+  <li>StudentManagementSystem/
+    <ul>
+      <li>src/
+        <ul>
+          <li>model/
+            <ul>
+              <li>Student.java</li>
+            </ul>
+          </li>
+          <li>dao/
+            <ul>
+              <li>DatabaseConnection.java </li>
+              <li>StudentDAO.java </li>
+            </ul>
+          </li>
+          <li>ui/
+            <ul>
+              <li>StudentManagementSystem.java </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>resources/
+        <ul>
+          <li>galgotias-university-logo.png</li>
+        </ul>
+      </li>
+      <li>sql/
+        <ul>
+          <li>student_management.sql\</li>
+        </ul>
+      </li>
+      <li>README.md</li>
+    </ul>
+  </li>
+</ul>
 
-</p>
